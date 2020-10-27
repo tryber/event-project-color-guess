@@ -169,11 +169,13 @@ Neste projeto, você implementará um adivinhador de cor RGB. Ou seja, dada uma 
 - A cada acerto, é incrementado 3 pontos ao placar
 - Ao clicar no botão reiniciar, o placar **NÃO** deve ser resetado
 
+### 8 - Publique seu projeto no Heroku e compartilhe com nas suas redes!
+
 ---
 
 ### DURANTE O DESENVOLVIMENTO
 
-* ⚠ **RECOMENDAMOS QUE VOCÊ FIQUE ATENTO ÀS ISSUES DO CODE CLIMATE, PARA RESOLVÊ-LAS ANTES DE FINALIZAR O DESENVOLVIMENTO. A PARTIR DO BLOCO 6 SEU PROJETO SOMENTE SERÁ AVALIADO SE NÃO TIVER ISSUES NO CODE CLIMATE!** ⚠
+* ⚠ **RECOMENDAMOS QUE VOCÊ FIQUE ATENTO ÀS ISSUES DO CODE CLIMATE, PARA RESOLVÊ-LAS ANTES DE FINALIZAR O DESENVOLVIMENTO.** ⚠
 
 * Faça `commits` das alterações que você fizer no código regularmente;
 
